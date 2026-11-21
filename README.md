@@ -7,3 +7,5 @@ Pratham's own social media scheduler: schedule posts at each account's perfect t
 - Secrets live in Netlify environment variables (`MASTER_KEY`, `SETUP_CODE`) and encrypted in Blobs — never in this repo.
 
 Local tests: `npm install && npm test`
+
+Testing: new versions are tried on a free preview link (pull request from `beta`) before going live.
